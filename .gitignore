@@ -1,0 +1,25 @@
+# Folders to ignore
+data/
+models/
+outputs/
+
+# Virtual environments
+.venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac + system files
+.DS_Store
+
+# R-related
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs or temp files
+*.log
+*.tmp

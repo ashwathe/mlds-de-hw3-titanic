@@ -6,7 +6,7 @@ The goal is to practice reproducible data processing, model training, and deploy
 ---
 
 ## Project Structure
-'''
+```
 mlds-de-hw3-titanic/
 ├── data/ # Folder for Titanic CSVs (train.csv, test.csv)
 │ └── README.md # Instructions for downloading data
@@ -23,7 +23,7 @@ mlds-de-hw3-titanic/
 ├── .gitignore # Ignored files and folders
 └── README.md # Project documentation
 
-'''
+```
 ---
 
 ## Overview
